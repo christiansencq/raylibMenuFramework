@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/charles/Cpp/StateStack/sources/Constants.h
+
+/home/charles/Cpp/StateStack/sources/InputSettingsState.cpp
+InputSettingsState.h
+/home/charles/Cpp/StateStack/sources/InputSettingsState.h
+iostream
+-
+
+/home/charles/Cpp/StateStack/sources/InputSettingsState.h
+sstream
+-
+string
+-
+State.h
+/home/charles/Cpp/StateStack/sources/State.h
+
+/home/charles/Cpp/StateStack/sources/State.h
+raylib.h
+/home/charles/Cpp/StateStack/sources/raylib.h
+Constants.h
+/home/charles/Cpp/StateStack/sources/Constants.h
+
+_deps/raylib-src/src/raylib.h
+stdarg.h
+-
+stdbool.h
+-
+

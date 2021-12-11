@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/CMakeFiles/sol-populate"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/CMakeFiles/sol-populate.rule"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/CMakeFiles/sol-populate-complete.rule"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/sol-populate-prefix/src/sol-populate-stamp/sol-populate-install.rule"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/sol-populate-prefix/src/sol-populate-stamp/sol-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/sol-populate-prefix/src/sol-populate-stamp/sol-populate-download.rule"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/sol-populate-prefix/src/sol-populate-stamp/sol-populate-update.rule"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/sol-populate-prefix/src/sol-populate-stamp/sol-populate-patch.rule"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/sol-populate-prefix/src/sol-populate-stamp/sol-populate-configure.rule"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/sol-populate-prefix/src/sol-populate-stamp/sol-populate-build.rule"
+		},
+		{
+			"file" : "/home/charles/Cpp/StateStack/build/_deps/sol-subbuild/sol-populate-prefix/src/sol-populate-stamp/sol-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sol-populate"
+		],
+		"name" : "sol-populate"
+	}
+}
